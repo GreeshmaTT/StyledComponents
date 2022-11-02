@@ -1,5 +1,7 @@
 fileignoreconfig:
   - filename: package-lock.json
+    checksum: a267bbc3f391a63709b792bd4f8d216e66e0e0c843f01ddbdcce2859d2f3f115
+  - filename: package-lock.json
     checksum: 4359a088e5fb7402f06fd100abb5b512f053757b7fe66a8de5b63d80fe60af56
   - filename: src/components/CourseGoals/CourseGoalList/CourseGoalList.js
     checksum: 10974385da42119c6eaff00909d87c473ee49c47cf7420b650bbcd40d2ba545b
